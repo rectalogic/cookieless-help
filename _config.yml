@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Cookieless Help
 description: Enabling the Cookieless Content Blocker and Action
 show_downloads: false
+privacy_url: privacy.html
